@@ -1,7 +1,7 @@
 ### 👋 
 <h2 align="center"> Whoami </h2>
 <p align="center">
-  <samp>Hello! My name is Sulis Tiana. </samp>
+  <samp>Hello! My name is Sulis Tiana. My academic background has given me a strong foundation in understanding how technology can solve complex business problems, while my enthusiasm for design drives me to create applications that are not only functional but also delightful to use</samp>
   <br> <br>
 
 ## Github Stats
