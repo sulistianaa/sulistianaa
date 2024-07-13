@@ -1,5 +1,5 @@
-<h2 align="center"> 👋 </h2>
-
+### 👋 
+<h2 align="center"> Whoami </h2>
 <p align="center">
   <samp>Hello! My name is Sulis Tiana. </samp>
   <br> <br>
